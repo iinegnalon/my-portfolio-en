@@ -75,7 +75,7 @@ These projects were developed as part of a team for clients. Below each project,
 
 ## Portfolio Repositories
 
-1. [GreenElegance Boutique](https://github.com/iinegnalon/greenelegance-boutique-vue) (in progress): An e-commerce website built using Vue 3, Nuxt 3, and TypeScript.
+1. [GreenElegance Boutique](https://github.com/iinegnalon/greenelegance-boutique-vue): An e-commerce website built using Vue 3, Nuxt 3, and TypeScript.
 
    - Includes: landing page, product catalog, product details, shopping cart, and Stripe checkout.
    - Tools used: Prettier, ESLint, Vite, Composition API, SCSS, Vuetify, Pinia.
